@@ -1,5 +1,3 @@
-# -Testes-de-Software---Automatizados
-
 # Testes E2E - SauceDemo com Cypress
 
 ## Descrição do Projeto
